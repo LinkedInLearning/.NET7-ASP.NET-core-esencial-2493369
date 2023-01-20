@@ -1,0 +1,45 @@
+﻿@page
+@model demowebapp.Pages.PetsModel
+@{
+}
+
+<h1>Pets</h1>
+
+<form method="get">
+    <div class="input-group">
+        <input type="search" class="form-control"
+          asp-for="Search" />
+        <button class="btn btn-dark">Buscar...</button>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Nombre</th>
+            <th scope="col">Raza</th>
+            <th scope="col">Especie</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model.Pets)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Breed.Name</td>
+                <td>@item.Breed.Species.Name</td>
+                <td><a class="btn btn-link"
+                    asp-page="PetDetails"
+                    asp-route-id="@item.Id">Ver...</a></td>
+                <td>
+                    <a class="btn btn-link"
+                   asp-page="PetEdit"
+                   asp-route-id="@item.Id">Editar...</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+
+</table>

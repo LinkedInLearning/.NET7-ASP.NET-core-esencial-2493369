@@ -1,0 +1,30 @@
+﻿@page
+@model demowebapp.Pages.PetEditModel
+@{
+}
+<h1>@Model.Pet.Name</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="Pet.Id" />
+    <div class="mb-3">
+        <label asp-for="Pet.Name" class="form-label"></label>
+        <input asp-for="Pet.Name" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Pet.Age" class="form-label"></label>
+        <input asp-for="Pet.Age" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Pet.Weight" class="form-label"></label>
+        <input asp-for="Pet.Weight" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Pet.Breed" class="form-label"></label>
+        <select asp-for="Pet.BreedId" asp-items="@Model.Breeds" class="form-control"></select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
