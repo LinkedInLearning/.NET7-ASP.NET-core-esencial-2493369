@@ -1,12 +1,13 @@
-# Nombre final del curso
+# .NET 7: ASP.NET Core esencial
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `[.NET 7: ASP.NET Core esencial]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+Comprende los conceptos fundamentales de la plataforma de desarrollo ASP.NET Core 7 con este contenido formativo. Al finalizar el curso, serás capaz de identificar los componentes más importantes de ASP.NET Core 7, sus diferentes tipos de proyectos y las herramientas necesarias para construir este tipo de soluciones, destacando el uso de las web API mínimas, así como las páginas Razor para la creación de aplicaciones web.
 
 ## Instrucciones
 
@@ -26,9 +27,9 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+**Rodrigo Díaz Concha**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
