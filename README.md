@@ -2,8 +2,8 @@
 
 Este es el repositorio del curso de LinkedIn Learning `[.NET 7: ASP.NET Core esencial]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
-
+ ![image](https://user-images.githubusercontent.com/71371373/225863415-c1b160d3-ba32-4a31-9ffd-45e58267600e.png)
+ 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 Comprende los conceptos fundamentales de la plataforma de desarrollo ASP.NET Core 7 con este contenido formativo. Al finalizar el curso, serás capaz de identificar los componentes más importantes de ASP.NET Core 7, sus diferentes tipos de proyectos y las herramientas necesarias para construir este tipo de soluciones, destacando el uso de las web API mínimas, así como las páginas Razor para la creación de aplicaciones web.
