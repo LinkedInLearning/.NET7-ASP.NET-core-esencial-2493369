@@ -1,8 +1,8 @@
 # .NET 7: ASP.NET Core esencial
 
-Este es el repositorio del curso de LinkedIn Learning `[.NET 7: ASP.NET Core esencial]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `.NET 7: ASP.NET Core esencial`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
- ![image](https://user-images.githubusercontent.com/71371373/225863415-c1b160d3-ba32-4a31-9ffd-45e58267600e.png)
+![lil-thumbnail-url]
  
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -32,6 +32,4 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/dot-net-7-asp-dot-net-core-esencial/construye-poderosas-soluciones-web-con-asp-dot-net-core
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-
-[1]: # (End of ES-Instruction ###############################################################################################)
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQGkwPn7k7EY6Q/learning-public-crop_675_1200/0/1679044590828?e=2147483647&v=beta&t=wnSddfTQm87vheZFQ3EjPeoQ5uxlViazEpCBLluMbcY
